@@ -11,7 +11,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-<p align="left">I'm Sam, a computer science student at Penn State University, from Harrisburg, Pennsylvania <br><br>- 🔭 <!-- I’m working as ...<br> --> - 📚 I'm currently learning quantitative finance<br>- ⚡ In my free time I produce music</p>
+<p align="left">I'm Sam, a computer science and mathematics student at Penn State University, from Harrisburg, Pennsylvania <br><br>- 🔭 <!-- I’m working as ...<br> --> - 📚 I'm currently learning quantitative finance<br>- ⚡ In my free time I produce music</p>
 
 ###
 
@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mooresamw&show_icons=true&locale=en" alt="mooresamw" /></p> -->
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mooresamw&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mooresamw&theme=dark&hide_border=true" alt="GitHub Streak" /></a></p>
