@@ -11,7 +11,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-<p align="left">I'm Sam, a computer science and mathematics student at Penn State University, from Harrisburg, Pennsylvania <br><br>- 🔭 <!-- I’m working as ...<br> --> - 📚 I'm currently learning quantitative finance<br>- ⚡ In my free time I produce music</p>
+<p align="left">I'm Sam, a computer science and mathematics student at Penn State University<br><br>- 🔭 <!-- I’m working as ...<br> --> - 📚 I'm currently learning quantitative finance<br>- ⚡ In my free time I produce music</p>
 
 ###
 
