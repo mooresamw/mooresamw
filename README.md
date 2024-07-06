@@ -11,9 +11,6 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
-<h3 align="left">A computer science student at Penn State University</h3>
-
 <p align="left">I'm Sam, a computer science student at Penn State University, from Harrisburg, Pennsylvania <br><br>- 🔭 <!-- I’m working as ...<br> --> - 📚 I'm currently learning quantitative finance<br>- ⚡ In my free time I produce music</p>
 
 ###
@@ -27,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mooresamw&show_icons=true&locale=en" alt="mooresamw" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mooresamw&" alt="mooresamw" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mooresamw&" alt="mooresamw" /></p>
