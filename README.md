@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mooresamw&show_icons=true&locale=en" alt="mooresamw" /></p> -->
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mooresamw&" alt="mooresamw" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mooresamw&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
